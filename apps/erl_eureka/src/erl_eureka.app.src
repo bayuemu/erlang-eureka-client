@@ -1,0 +1,18 @@
+{application, erl_eureka,
+ [{description, "An OTP application"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {mod, { erl_eureka_app, []}},
+  {applications,
+   [kernel,
+    stdlib,
+    jsx,
+    inets
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {maintainers, []},
+  {licenses, ["Apache 2.0"]},
+  {links, []}
+ ]}.
