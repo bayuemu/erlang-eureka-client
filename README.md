@@ -1,7 +1,7 @@
 erl_eureka
 =====
 
-An OTP application
+An OTP application, a client of spring-boot-eureka for erlang.
 
 Build
 -----
